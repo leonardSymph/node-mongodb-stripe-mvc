@@ -1,11 +1,11 @@
 # for portfolio purpose only
 
 MVC architecture
--node
--express
--mongodb
--stripe
--javascript
+- node
+- express
+- mongodb
+- stripe
+- javascript
 - esj - view engine
 
 # to start
